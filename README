@@ -5,3 +5,5 @@ Reference on Wikipedia: http://en.wikipedia.org/wiki/Longest_common_subsequence_
 For verifying the Goldbach's Conjecture: http://en.wikipedia.org/wiki/Goldbach's_conjecture
 3) Anagram Finder
 Given a string, find all the anagrams in a dictionary: http://en.wikipedia.org/wiki/Anagram
+4) The Base58 Encoding Scheme
+Internet-Draft: https://tools.ietf.org/id/draft-msporny-base58-03.html
